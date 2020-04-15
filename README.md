@@ -1,5 +1,17 @@
 # AlgoExperts.io
 Solved Python Code for Questions on AlgoExpert.io
 - Easy Problems:
-  - [Two Sum](Easy/TwoNumberSum.py)
-  - [Closest Value In BST](Easy/FindClosestValueInBST.py)
+  - [Two Number Sum](Easy/TwoNumberSum.py)
+  - [Find Closest Value In BST](Easy/FindClosestValueInBST.py)
+  - Depth-first Search
+  - Linked List Construction
+  - Nth Fibonacci
+  - Binary Search
+  - Bubble Sort
+  - Insertion Sort
+  - Selection Sort
+  - Palindrome Check
+  - Caesar Cipher Encryptor
+  - Branch Sum
+  - Product Sum
+  - Find Three Largest Numbers
