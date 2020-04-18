@@ -3,7 +3,7 @@ Solved Python Code for Questions on AlgoExpert.io
 - Easy Problems:
   - [Two Number Sum](Easy/TwoNumberSum.py)
   - [Find Closest Value In BST](Easy/FindClosestValueInBST.py)
-  - Depth-first Search
+  - [Depth-first Search](Easy/DepthFirstSearch.py)
   - Linked List Construction
   - Nth Fibonacci
   - Binary Search
