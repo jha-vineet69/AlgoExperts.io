@@ -6,6 +6,7 @@ Solved Python Code for Questions on AlgoExpert.io
   - [Depth-first Search](Easy/DepthFirstSearch.py)
   - [Linked List Construction](Easy/LinkedListConstruction.py)
   - [Nth Fibonacci](Easy/NthFibonacci.py)
+  - [Find Three Largest Numbers](Easy/ThreeLargest.py)
   - Binary Search
   - Bubble Sort
   - Insertion Sort
@@ -14,4 +15,4 @@ Solved Python Code for Questions on AlgoExpert.io
   - Caesar Cipher Encryptor
   - Branch Sum
   - Product Sum
-  - Find Three Largest Numbers
+  
