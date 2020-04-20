@@ -7,7 +7,7 @@ Solved Python Code for Questions on AlgoExpert.io
   - [Linked List Construction](Easy/LinkedListConstruction.py)
   - [Nth Fibonacci](Easy/NthFibonacci.py)
   - [Find Three Largest Numbers](Easy/ThreeLargest.py)
-  - Binary Search
+  - [Binary Search](Easy/BinarySearch.py)
   - Bubble Sort
   - Insertion Sort
   - Selection Sort
