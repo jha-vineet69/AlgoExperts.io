@@ -5,7 +5,7 @@ Solved Python Code for Questions on AlgoExpert.io
   - [Find Closest Value In BST](Easy/FindClosestValueInBST.py)
   - [Depth-first Search](Easy/DepthFirstSearch.py)
   - [Linked List Construction](Easy/LinkedListConstruction.py)
-  - Nth Fibonacci
+  - [Nth Fibonacci](Easy/NthFibonacci.py)
   - Binary Search
   - Bubble Sort
   - Insertion Sort
