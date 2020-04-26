@@ -8,9 +8,9 @@ Solved Python Code for Questions on AlgoExpert.io
   - [Nth Fibonacci](Easy/NthFibonacci.py)
   - [Find Three Largest Numbers](Easy/ThreeLargest.py)
   - [Binary Search](Easy/BinarySearch.py)
-  - Bubble Sort
-  - Insertion Sort
-  - Selection Sort
+  - [Bubble Sort](Easy/BubbleSort.py)
+  - [Insertion Sort](Easy/InsertionSort.py)
+  - [Selection Sort](Easy/SelectionSort.py)
   - Palindrome Check
   - Caesar Cipher Encryptor
   - Branch Sum
