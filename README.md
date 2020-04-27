@@ -13,6 +13,6 @@ Solved Python Code for Questions on AlgoExpert.io
   - [Selection Sort](Easy/SelectionSort.py)
   - [Palindrome Check](Easy/PalindromeCheck.py)
   - [Caesar Cipher Encryptor](Easy/CaesarCipherEncryptor.py)
-  - Branch Sum
+  - [Branch Sum](Easy/BranchSum.py)
   - Product Sum
   
