@@ -11,8 +11,8 @@ Solved Python Code for Questions on AlgoExpert.io
   - [Bubble Sort](Easy/BubbleSort.py)
   - [Insertion Sort](Easy/InsertionSort.py)
   - [Selection Sort](Easy/SelectionSort.py)
-  - Palindrome Check
-  - Caesar Cipher Encryptor
+  - [Palindrome Check](Easy/PalindromeCheck.py)
+  - [Caesar Cipher Encryptor](Easy/CaesarCipherEncryptor.py)
   - Branch Sum
   - Product Sum
   
