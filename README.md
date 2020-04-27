@@ -14,5 +14,5 @@ Solved Python Code for Questions on AlgoExpert.io
   - [Palindrome Check](Easy/PalindromeCheck.py)
   - [Caesar Cipher Encryptor](Easy/CaesarCipherEncryptor.py)
   - [Branch Sum](Easy/BranchSum.py)
-  - Product Sum
+  - [Product Sum](Easy/ProductSum.py)
   
