@@ -15,6 +15,7 @@ Solved Python Code for Questions on AlgoExpert.io
   - [Caesar Cipher Encryptor](Easy/CaesarCipherEncryptor.py)
   - [Branch Sum](Easy/BranchSum.py)
   - [Product Sum](Easy/ProductSum.py)
+  - [Validate Subsequence](Easy/ValidateSubsequence.py)
 
 - Medium Problems:
   - [Three Number Sum](Medium/ThreeNumberSum.py)
