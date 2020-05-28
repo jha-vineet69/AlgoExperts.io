@@ -16,12 +16,13 @@ Solved Python Code for Questions on AlgoExpert.io
   - [Branch Sum](Easy/BranchSum.py)
   - [Product Sum](Easy/ProductSum.py)
   - [Validate Subsequence](Easy/ValidateSubsequence.py)
+  - [Node Depths](Easy/NodeDepths.py)
 
 - Medium Problems:
   - [Three Number Sum](Medium/ThreeNumberSum.py)
   - [Smallest Difference](Medium/SmallestDifference.py)
   - [Binary Search Tree Construction](Medium/BST.py)
-  - []()
+  - [Linked List Construction](Medium/LinkedListConstruction.py)
   - []()
   - []()
   - []()
